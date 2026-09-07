@@ -46,14 +46,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JefersonGomez&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JefersonGomez&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=JefersonGomez&theme=tokyonight" alt="streak stats"/>
-</p>
+<p align="center"> <img height="180em" src="https://github-readme-stats-one-dusky-92.vercel.app/api?username=JefersonGomez&show_icons=true&theme=tokyonight&count_private=true" /> <img height="180em" src="https://github-readme-stats-one-dusky-92.vercel.app/api/top-langs/?username=JefersonGomez&layout=compact&theme=tokyonight" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=JefersonGomez&theme=tokyonight" alt="streak stats"/> </p>
 
 ---
 
@@ -61,8 +54,8 @@
 
 <!-- Agrega aquí tus enlaces reales, por ejemplo: -->
 <p align="left">
-  <!-- <a href="TU_LINK_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> -->
-  <!-- <a href="mailto:TU_CORREO"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> -->
+  <a href="https://www.linkedin.com/in/jeferson-bustamante-gomez-86853a297/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:jefersonbustamantegomez@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
 </p>
 
 ---
